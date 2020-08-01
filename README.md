@@ -1,0 +1,2 @@
+This project is predicting the opening price for the Hero Moto Corp company, the largest two-wheeler comapny in the world. I have taken the data for the past 7 years (31 July 2013 - 31 July 2020). The dataset is available in the csv format. I have used LSTM in Tensorflow and keras for the model. 
+Note that I will making more commits to the project as I try to make the model accurary better so do check it out.
